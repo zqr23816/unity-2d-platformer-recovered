@@ -49,9 +49,12 @@ RecoveredUnityProject/Assets/Scripts/
 
 早期 Demo 参考了 [RedFF0000/Finite-state-machine](https://github.com/RedFF0000/Finite-state-machine) 的动画素材和 FSM 教学实现。本仓库已经明确标注来源，并对 FSM 代码重新组织和改写；没有把参考仓库的 UnityPackage 或第三方美术文件重新上传。代码归属边界见[代码来源与改写说明](Documentation/代码来源与改写说明.md)。
 
-## 面试准备
+## 展示
 
-项目亮点、可量化描述和常见追问整理在[项目亮点与面试问答](Documentation/项目亮点与面试问答.md)。面试时建议把重点放在“如何恢复、验证、定位问题并改造架构”，而不是把第三方素材或教学 FSM 描述为原创。
+<img width="1471" height="748" alt="image" src="https://github.com/user-attachments/assets/c78df21d-b24a-4e07-8f46-fec962b7bb14" />
+<img width="1471" height="748" alt="image" src="https://github.com/user-attachments/assets/d984ec8f-79b7-409a-b188-4593825e6c34" />
+
+
 
 ## 许可
 
